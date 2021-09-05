@@ -5,4 +5,4 @@
 ![Hulu Clone](/img/screen.png 'Hulu Clone')
 # hulu-webpage-clone
 
-https://app.netlify.com/sites/magazijn-01-hulu-clone/overview
+https://magazijn-01-hulu-clone.netlify.app/

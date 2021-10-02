@@ -5,4 +5,5 @@
 ![Hulu Clone](/img/screen.png 'Hulu Clone')
 # hulu-webpage-clone
 
+This is my code-along version that I deployed on Netlify
 https://magazijn-01-hulu-clone.netlify.app/
